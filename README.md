@@ -17,6 +17,8 @@
 **Schedule/working hours:** 9:00am - 4:30pm EST
 (I am flexible but _not_ an early morning person)
 
+**If there's multiple Sara(h)s:** Use Sarah W, SW, or some other reference including my first name/initial. Don't use just my last name ("Withee") as it sounds too much like sports or military references and I don't like it.
+
 If you have questions about anything, leave a work DM and I'll try to clarify!
 
 ---
