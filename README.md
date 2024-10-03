@@ -3,6 +3,15 @@ Last revised: 10/3/2024
 
 ---
 
+Table of Contents
+* [Intro](#intro)
+* [Work style preferences](#work-style-preferences)
+* [Skills](#skills)
+* [Projects I've worked on](#projects-ive-worked-on)
+* [Hobbies and interests](#hobbies-and-interests)
+
+---
+
 ## **Intro**
 
 **Name pronunciation:** SAIR-uh WITH-ee
