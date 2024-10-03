@@ -10,14 +10,14 @@
 
 **Role at CODE PA:** Head of Backend Development
 
-**When you started at CODE PA:** July 17, 2023
+**When you started at CODE PA:** July 17, 2023 (one of the original 6!)
 
 **Location:** Pittsburgh, PA
 
-**Schedule/working hours:** 9:00am - 4:30pm EST
+**Schedule/working hours:** 9:00am - 5:00pm EST, give or take
 (I am flexible but _not_ an early morning person)
 
-**If there's multiple Sara(h)s:** Use Sarah W, SW, or some other reference including my first name/initial. Don't use just my last name ("Withee") as it sounds too much like sports or military references and I don't like it.
+**If there's multiple Sara(h)s:** Use Sarah W, SW, or some other reference that's not just my last name ("Withee"). It sounds too much like sports or military references and I don't like it for myself.
 
 If you have questions about anything, leave a work DM and I'll try to clarify!
 
@@ -27,11 +27,13 @@ If you have questions about anything, leave a work DM and I'll try to clarify!
 
 ### Scheduling
 
-- Any open calendar spot between 9:00am and 4:30pm ET is fair game for booking me.
+- Any open calendar spot between working hours is fair game for booking me.
 - If my calendar time is marked as "(Personal)", ask before booking it. I might be able to reschedule it.
 - If my calendar time is marked as "(Optional)" or shows up as free, go ahead and book it!
 - I am not a great morning person and am generally more functional in the afternoon. Late mornings are great for standups or catch-up meetings, afternoons will usually be when I get the most work done, or can contribute the most thoughtful discussions.
 - Try to book meetings back to back, or leave room with at least an hour in between. (It takes me a bit of time to get back into "the zone" so it helps to eliminate short breaks between meetings that I can't really get back into a productive flow.)
+- Ideally I'd prefer meetings at the beginning and end of the day, leaving the middle of my day to do productive work as that's when my brain is the most active.
+- I don't mind meetings, but they should have a purpose to them!
 
 ### Meeting interactions
 
@@ -43,18 +45,23 @@ If you have questions about anything, leave a work DM and I'll try to clarify!
 
 - I am fine working solo or pair programming
 - I am more than happy to jump on calls with others to help think through problems or "writers" (developers?) block
-- If I'm deep in thought and you interrupt, that's ok, but let me finish dumping my thoughts to a point I know where to resume so I can pay better attention to your needs.
+- If I'm deep in thought and you interrupt, that's ok, but let me finish dumping my thoughts to a point I know where to resume so I can pay better attention to you.
 - If I'm regularly interrupted, I may just block off time on the calendar dedicated to work.
+
+### Management style
+
+- I'm newer to management, so I'm still learning a lot! But from the [different styles](https://www.forbes.com/advisor/business/management-styles/) I've been reading about, I think I fall mostly on servant leadership with some democratic. However, if you find you need/want a different style in how we work together, let me know what you need and I can help pivot to what works for you!
+- For things I value in management, I wrote a blog post a few years ago about important things I learned about management as a developer. [You can read that here!](https://geekygirlsarah.com/2021/06/22/the-most-important-things-ive-learned-about-software-management/)
 
 ### Communication
 
-- I am fine communicating over email, Slack/Teams, chat, Meet/Zoom, or other methods
+- I am happy to communicating over email, Slack/Teams, chat, Meet/Zoom, or other methods
 - I probably will respond to Slack/Teams the fastest
-- If there's a hole in my calendar, you are welcome to start video meeting with me
+- If there's a hole in my calendar, you are welcome to start a video meeting with me
 
 ### Feedback
 
-- I highly value feedback as a fellow teammate and coworker, and will gladly offer it as best I can if desired! I truly think I learn and grow as a developer and a person through good, thoughtful feedback processes!
+I highly value feedback as a fellow teammate and coworker, and will gladly offer it as best I can if desired! I truly think I learn and grow as a developer, manager, and a person through good, thoughtful feedback processes!
 
 #### Receiving feedback
 
@@ -62,8 +69,8 @@ If you have questions about anything, leave a work DM and I'll try to clarify!
 - I generally prefer regular feedback delivered more often than less. (I think less often means stuff gets missed.)
 - If feedback is mixed in with non-feedback, I might miss it or it might not always come off as important as it should be.
 - I prefer feedback to be as constructive as possible, talking about situations and events that happened rather than broad or vague descriptions. (i.e. "When you worked on X, you did Y, which was/wasn't good." instead of "You don't do Y well.")
-- If you have positive and negative feedback, please give both. (Order is less important than actually giving both.)
-- If you have only negative feedback, that's ok, but if I'm delivered only negative feedback for an extended period of time, I will probably fall into a negative mental state and need a day to recover.
+- If you have positive and negative feedback, please give both. (Order is less important than actually giving everything.)
+- If you have only negative feedback, that's ok, but if I'm delivered a lot of negative feedback for an extended period of time, I will probably fall into a negative mental state and need a day to recover.
 - I am willing to receive feedback via video call, Slack/Team messages, documents, or any other form of communication.
 
 #### Giving feedback
@@ -76,13 +83,13 @@ If you have questions about anything, leave a work DM and I'll try to clarify!
 
 ## **Skills**
 
-I consider myself a generalist and a polyglot. I've used a LOT of things over the years. I don't feel I'm necessarily an expert on any one thing, but because I've used so many things enough to get a basic understanding, I can usually hit the ground running quickly with about anything (a skill in and of itself). I gravitate towards interesting and challenging projects over reusing technical skills I already know. I also don't have a favorite language and prefer the right language for the task at hand.
+I consider myself a generalist and a polyglot. I've used a LOT of things over the years. I don't feel I'm necessarily an expert on any one thing, but because I've used so many things enough to get a basic understanding, I can usually hit the ground running quickly with about anything (a skill in and of itself). So I'm more an expert at getting things done more than an expert at any particular one technology! I gravitate towards interesting and challenging projects over reusing technical skills I already know. I also don't have a favorite language and prefer the right language for the task at hand.
 
 A pretty good list (that may not be complete):
 
 - Languages (used in production): Python, JavaScript, PHP, C++, C#, Java, Scala, SQL, Ruby, HTML, CSS
-- Languages (experimented with or just old): Haskell, Rust, Visual Basic
-- Frameworks: Django, jQuery, Node.js, Express, Symfony, ExtJS, Android, Twilio, Ruby on Rails, Jekyll
+- Languages (experimented with or just old): Haskell, Rust, Visual Basic (old and .Net)
+- Frameworks: Django, jQuery, Node.js, Express, Symfony, ExtJS, Android, Twilio, Ruby on Rails, Jekyll (and probably more I've forgotten)
 - Cloud/CI/CD: Heroku, Travis CI, AWS, Azure, Terraform, AppVeyor
 - Databases: SQL Server, PostgreSQL, MySQL, Redis, SQLite, MongoDB/NoSQL
 - Version Control: Git, GitHub, GitLab, Subversion (SVN), Team Foundation Server
@@ -123,13 +130,13 @@ Feel free to chat with me about anything below!
 
 - You probably already have noticed my puns, bad jokes, and sarcasm
 - I'm probably most famous for my two large, human-loving, social, friendly cats. You will see them on video meetings. They may use me as their human cat tree.
-- I mentor an all-girls FIRST robotics competition team (middle and high school), and they went to the world championship in 2022.
-- I currently work on an open source polyglot developer reference tool that lets you look at programming structures side by side for a language you know and one you don't, or just any two you want to compare. (And now over 90 contributors!)
+- I mentor an all-girls FIRST robotics competition team (middle and high school), and they went to the world championship in 2022 and 2024.
+- I currently work on an open source polyglot developer reference tool that lets you look at programming structures side by side for a language you know and one you don't, or just any two you want to compare. (And now over 120 contributors!)
 - I do try to live stream work on that project on Twitch (though don't have a regular schedule right now)
 - I do like swimming and bicycling, and in 2020 rode over 270 miles
 - Occasionally I make handmade soap (and since I can't sell it I usually just give a lot of it away)
-- I am on a current streak to try to play all Legend of Zelda games in release order. (I just beat Skyward Sword, so I'm jumping between Link Between Worlds and Tears of the Kingdom)
-- I also regularly play Splatoon 2 multiplayer games on the Nintendo Switch
+- I am on a current streak to try to play all Legend of Zelda games in release order. (I just Tears of the Kingdom, so I'm needing to Link Between Worlds, which I realize is out of order. I also need to buy Echoes of Wisdom)
+- I also regularly play Splatoon 3 multiplayer games on the Nintendo Switch
 - I used to be on a college robotics competition team and programming competition team. I still tinker with hardware/electronics when I can.
-- I do really like fashion, and used to wear great outfits, but the pandemic has slowed that down. (Maybe #discuss-fashion can get me back into it?)
+- I do really like fashion, and used to wear great dressy outfits at the bank and while teaching. I miss it, and will happily talk clothes and shoes and more!
 - Probably other things
